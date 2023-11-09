@@ -1,0 +1,72 @@
+#EXTINF:-1 group-title="Дети" tvg-logo="https://i.postimg.cc/HWNnL7LN/knopka-tv.jpg",Кнопка ТВ
+http://api.alpaca.t62a.com/hls/9116/stream0.m3u8
+#EXTINF:-1 group-title="Дети" tvg-logo="https://i.ibb.co/PFyB1hk/2014-transformed.png",Маша и Медведь
+http://51.158.144.33:2021/masharus/index.m3u8
+#EXTINF:-1 group-title="Дети" tvg-logo="http://epg.it999.ru/img/929.png",Cartoonito
+http://europe3.livetv.az/russia/boomerang_2023/playlist.m3u8
+#EXTINF:-1 group-title="Дети" tvg-logo="https://i.postimg.cc/t48njFN7/1.png",Смотрим Детям
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-06.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1 group-title="Дети" tvg-logo="http://epg.it999.ru/img/66.png",УНИКУМ
+https://tbs01-edge11.itdc.ge/detsky/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Дети" tvg-logo="http://epg.it999.ru/img/284.png",Мультимузыка
+rtmp://178.159.112.198//strana
+#EXTINF:-1 group-title="Дети" tvg-logo="http://epg.it999.ru/img/1332.png",Мульт
+rtmp://178.159.112.198//mult
+#EXTINF:-1 group-title="Дети" tvg-logo="http://epg.it999.ru/img/2202.png",Плюс плюс
+rtmp://93.189.60.202//1002
+#EXTINF:-1 group-title="Дети" tvg-logo="http://epg.it999.ru/img/410.png",Da Vinci Kids
+rtmp://93.189.60.202//1033
+#EXTINF:-1 group-title="Дети" tvg-logo="http://epg.it999.ru/img/923.png",Детский мир
+http://streamer1.ruslanatv.ru/russia/detskiy_mir_2023/playlist.m3u8
+#EXTINF:-1 group-title="Дети" tvg-logo="http://epg.it999.ru/img/601.png",Cartoon network
+http://streamer1.ruslanatv.ru/russia/cartoon_network_sd_2023/playlist.m3u8
+#EXTINF:-1 group-title="Дети" tvg-logo="http://epg.it999.ru/img/2239.png",СуперГерои
+http://streamer1.ruslanatv.ru/russia/malish_2023/playlist.m3u8
+#EXTINF:-1 group-title="Дети" tvg-logo="http://epg.it999.ru/img/3703.png",Jimjam
+http://streamer1.ruslanatv.ru/russia/jimjam_2023/playlist.m3u8
+#EXTINF:-1 group-title="Дети" tvg-logo="http://epg.it999.ru/img/2027.png",В гостях у сказки
+https://strm.yandex.ru/kal/v_gostyah_u_skazki/v_gostyah_u_skazki0.m3u8
+#EXTINF:-1 group-title="Дети" tvg-logo="http://epg.it999.ru/img/923.png",Детский мир
+http://188.113.190.15/153/video.m3u8
+#EXTINF:-1 group-title="Дети" tvg-logo="http://epg.it999.ru/img/4775.png",Ералаш ТВ
+http://550a07aa.kazaktelekom.com/iptv/P7ZVA9T8FV8B7B/11058/index.m3u8
+#EXTINF:-1 group-title="Дети" tvg-logo="http://epg.it999.ru/img/2437.png",Рыжий
+http://193.33.240.8:8080/ryzhiy/index.m3u8
+#EXTINF:-1 group-title="Дети" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/94cf893c0dc05d2f0cba0e8519d4c7ad.png",Шаян ТВ
+https://s45177.cdn.ngenix.net/hls/CH_R03_SHAYNTV/variant.m3u8
+#EXTINF:-1 group-title="Дети" tvg-logo="http://epg.it999.ru/img/740.png",Карусель
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
+#EXTINF:-1 group-title="Дети" tvg-logo="http://epg.it999.ru/img/2288.png",Суббота
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
+#EXTINF:-1 group-title="Дети" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/01/6cc884bfb2c8a1e551f8a30beceb0ed8.png",СОЛНЦЕ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
+#EXTINF:-1 group-title="Дети" tvg-logo="http://epg.it999.ru/img/323.png",2x2
+http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
+#EXTINF:-1 group-title="Дети" tvg-logo="http://epg.it999.ru/img/423.png",Nickelodeon
+https://sc.id-tv.kz:443/Nickelodeon_34_35.m3u8
+#EXTINF:-1 group-title="Дети" tvg-logo="http://epg.it999.ru/img/917.png",Nick Jr
+http://91.233.215.250:7272/Jke5tdvCxp2Yhs6
+#EXTINF:-1 group-title="Дети" tvg-logo="http://epg.it999.ru/img/1757.png",О!
+http://109.200.135.130:8080/o_/index.m3u8
+#EXTINF:-1 group-title="Дети" tvg-logo="http://epg.it999.ru/img/810.png",Gulli
+http://europe3.livetv.az/russia/gulli_girl_2023/playlist.m3u8
+#EXTINF:-1 group-title="Дети" tvg-logo="http://epg.it999.ru/img/555.png",TiJi
+http://37.17.14.149:8911/play/a00d
+#EXTINF:-1 group-title="Дети" tvg-logo="http://epg.it999.ru/img/2481.png",СТС Kids HD
+https://okkotv-live.cdnvideo.ru/channel/CTC_Kids_HD/1080p.m3u8
+#EXTINF:-1 group-title="Дети" tvg-logo="http://epg.it999.ru/img/2757.png",Мультиландия
+https://okkotv-live.cdnvideo.ru/channel/Multilandia_HD/1080p.m3u8
+#EXTINF:-1 group-title="Дети" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/01/6cc884bfb2c8a1e551f8a30beceb0ed8.png",СОЛНЦЕ
+https://okkotv-live.cdnvideo.ru/channel/Disney/480p.m3u8
+#EXTINF:-1 group-title="Дети" tvg-logo="http://epg.it999.ru/img/2156.png",Duck TV
+https://okkotv-live.cdnvideo.ru/channel/DuckTV/480p.m3u8
+#EXTINF:-1 group-title="Дети" tvg-logo="https://picon.pp.ua/liova.png",Лёва
+http://strm.yandex.ru/kal/leva/leva0.m3u8
+#EXTINF:-1 group-title="Дети" tvg-logo="http://epg.it999.ru/img/2436.png",Baby Time
+http://strm.yandex.ru/kal/baby_time/baby_time0.m3u8
+#EXTINF:-1 group-title="Дети" tvg-logo="http://epg.it999.ru/img/2442.png",Смайлик ТВ
+http://hls.peers.tv/streaming/smayliktv/126/tvrecw/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE2OTAzMTEzMzgsImlhdCI6MTY5MDIyNDkzOCwiY2lkIjo2LCJ1aWQiOjYyMTIzMjE2MSwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTYyOTMsInByb2ZpbGUiOiJhZHVsdCJ9.7OsgpynJAj_I733Qrl0cgO3MFbaoA-EQXv3XzHSMYf0&offset=10
+#EXTINF:-1 group-title="Дети" tvg-logo="http://epg.it999.ru/img/5382.png" ,Жара Kids HD
+http://hls-zhara.cdnvideo.ru/zhara/zhara/playlist.m3u8
+#EXTINF:-1 group-title="Дети" tvg-logo="http://epg.it999.ru/img/2359.png",FAN HD
+http://193.33.240.8:8080/fan/tracks-v1a1/mono.m3u8
